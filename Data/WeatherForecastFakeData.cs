@@ -2,7 +2,7 @@ using System;
 
 namespace BlazorDemo.Data
 {
-    public class WeatherForecast
+    public class WeatherForecastFakeData
     {
         public DateTime Date { get; set; }
 
